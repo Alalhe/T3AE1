@@ -1,4 +1,8 @@
 Alabau
 maldito sourcetree
+<<<<<<< HEAD
 user1
+=======
+user2
+>>>>>>> refs/remotes/origin/master
 
